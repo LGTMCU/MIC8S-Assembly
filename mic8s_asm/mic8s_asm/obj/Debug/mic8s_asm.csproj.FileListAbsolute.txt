@@ -1,0 +1,12 @@
+D:\projects\mic8s_asm\mic8s_asm\bin\Debug\mic8s_asm.exe.config
+D:\projects\mic8s_asm\mic8s_asm\bin\Debug\mic8s_asm.exe
+D:\projects\mic8s_asm\mic8s_asm\bin\Debug\mic8s_asm.pdb
+D:\projects\mic8s_asm\mic8s_asm\obj\Debug\mic8s_asm.csprojResolveAssemblyReference.cache
+D:\projects\mic8s_asm\mic8s_asm\obj\Debug\mic8s_asm.exe
+D:\projects\mic8s_asm\mic8s_asm\obj\Debug\mic8s_asm.pdb
+E:\Projects\mic8s_asm\mic8s_asm\bin\Debug\mic8s_asm.exe.config
+E:\Projects\mic8s_asm\mic8s_asm\obj\Debug\mic8s_asm.exe
+E:\Projects\mic8s_asm\mic8s_asm\obj\Debug\mic8s_asm.pdb
+E:\Projects\mic8s_asm\mic8s_asm\bin\Debug\mic8s_asm.exe
+E:\Projects\mic8s_asm\mic8s_asm\bin\Debug\mic8s_asm.pdb
+E:\Projects\mic8s_asm\mic8s_asm\obj\Debug\mic8s_asm.csprojResolveAssemblyReference.cache
