@@ -303,6 +303,14 @@ namespace mic8s_asm
                     {
                         uval[0] = labels[dstr];
                     }
+                    else if (local_defs.ContainsKey(dstr))
+                    {
+                        uval[0] = local_defs[dstr];
+                    }
+                    else if (global_defs.ContainsKey(dstr))
+                    {
+                        uval[0] = global_defs[dstr];
+                    }
                     else
                     {
                         Console.WriteLine("Error: symbol \"{0}\" not found", dstr);
